@@ -9,5 +9,5 @@ Repository that contains the generation of the website with static artifacts for
 
   - [https://docs.neuroquest.ai](https://docs.neuroquest.ai/)
 
-Documentation built with [Hugo](https://gohugo.io/) and [Lotus Docs](https://lotusdocs.dev/) 🧡
+Documentation built with [Hugo](https://gohugo.io/) 🧡
 
