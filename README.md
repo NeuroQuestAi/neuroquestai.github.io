@@ -1,4 +1,4 @@
-<img src="brand/logo/neuroquest-orange-logo.png" align="right" width="80" height="80"/>
+<img src="brand/logo/neuroquest-orange-logo.png" align="right" width="65" height="65"/>
 
 # Documentation for Developers 📙
 
